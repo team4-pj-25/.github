@@ -1,5 +1,8 @@
 # 🚟 지하철도를 활용한 도심 물류센터 관리 솔루션
 
+![image](https://github.com/user-attachments/assets/dc9a2536-0100-4d00-9615-193d0fd02381)
+
+
 현재 배포 일시 중단 상태입니다. \
 ~~https://team4-spring-brgrf3e5gbgwahg7.koreacentral-01.azurewebsites.net~~
 
