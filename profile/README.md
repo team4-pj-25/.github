@@ -36,9 +36,9 @@
 - GIS 툴을 이용한 생활 물류 데이터 분석 (Geopandas, )
 - LSTM 기반 적정 재고 예측 서비스 개발 (서비스 플로우, 모델링 및 API 개발 | TensorFlow, SKlearn, FastAPI, Docker)
 - 실시간 재고 입출고 관리 서비스 개발 (SQLAlchemy, MySQL, FastAPI, Docker)
-- Yolov11 기반 자동 상품 검수 API 개발 (API 개발 + 이미지 빌드만 담당 | FastAPI, Docker)
+- Yolov11 기반 자동 상품 검수 API 개발 (API 개발 + Docker 이미지 빌드만 담당 | FastAPI, Docker)
 - 문의 게시판 CRUD 개발 (Spring Boot, Mustache)
-- Azure 웹앱 이용한 배포
+- Azure 웹앱 이용한 배포 (+ Azure Database for MySQL, Azure Cache for Redis)
 
 
 ![image](https://github.com/user-attachments/assets/10ad9dfb-4520-4792-833e-954e1de5fe50)
